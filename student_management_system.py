@@ -1,3 +1,5 @@
+# Student Management System
+# Developed as part of the Python Internship
 # Week 4 - Task 4: Student Management System
 # Concepts: variables, input/output, conditions, loops, functions,
 # dictionaries/lists, file handling, exception handling, and datetime.
